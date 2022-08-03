@@ -1,4 +1,11 @@
-# NFT Staking App
+# The Fox Hole
+
+The Offical Staking Vault for the Rich Fox Club 
+
+RFC.X Rewards Token
+
+![Moralis](https://user-images.githubusercontent.com/86588710/182725918-d9f5f6d4-2312-409f-b58d-c8d8b6dca1d0.png)
+
 
 ## Introduction
 
